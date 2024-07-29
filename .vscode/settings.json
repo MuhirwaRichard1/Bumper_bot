@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/muhirwa/workspace/pepper_rob_ws/devel/lib/python3/dist-packages",
+        "/home/muhirwa/lib/python2.7/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/muhirwa/workspace/pepper_rob_ws/devel/lib/python3/dist-packages",
+        "/home/muhirwa/lib/python2.7/site-packages"
+    ]
+}

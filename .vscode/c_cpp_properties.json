@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/noetic/include",
+                "/home/muhirwa/bumperbot_ws/devel/include",
+                "/home/muhirwa/bumperbot_ws/src/bumperbot_description/include",
+                "/usr/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "/opt/ros/noetic/include",
+                    "/home/muhirwa/bumperbot_ws/devel/include",
+                    "/home/muhirwa/bumperbot_ws/src/bumperbot_description/include",
+                    "/usr/include/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
